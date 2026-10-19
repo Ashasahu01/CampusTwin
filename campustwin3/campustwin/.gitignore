@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment variables (contains hashes/secrets — never commit)
+.env
+.env.*
+!.env.example
+
+.DS_Store
